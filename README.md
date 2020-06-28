@@ -7,7 +7,6 @@
 * daily dev blog - http://daily-devblog.com/
 * 바이라인 - https://byline.network/newsletter/
 * 매일프로그래밍 - https://mailprogramming.com/
-* 개발 관련 newsletter모아둔 곳(영문) - https://github.com/kakao/awesome-tech-newletters
 ---------------------------------------
 
 ### 디자인
