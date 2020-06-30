@@ -1,7 +1,7 @@
 # newsletter
 ---------------------------------------
 
-### IT관련
+### IT
 * 뽀식이 - https://www.notion.so/PPO-SIC-3d6f4b7e0847481c87277376b944208d
 * geeknews - https://news.hada.io/weekly
 * daily dev blog - http://daily-devblog.com/
@@ -9,12 +9,12 @@
 * 매일프로그래밍 - https://mailprogramming.com/
 ---------------------------------------
 
-### 디자인
+### Design
 * 디독 - https://page.stibee.com/subscriptions/31254
 * 서핏 - https://www.surfit.io/
 ---------------------------------------
 
-### 경제/트렌드 등
+### Economic & Trend
 * the vc - https://thevc.kr/auth/sign-up
 * 대학내일 - https://www.20slab.org/
 * 캐릿 - https://www.careet.net/Subscribe
